@@ -1,0 +1,105 @@
+11:30:21,836 |-INFO in ch.qos.logback.classic.gaffer.ConfigurationDelegate@4ac86d6a - Added status listener of type [ch.qos.logback.core.status.OnConsoleStatusListener]
+11:30:21,951 |-INFO in ch.qos.logback.classic.gaffer.ConfigurationDelegate@4ac86d6a - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+11:30:21,952 |-INFO in ch.qos.logback.classic.gaffer.ConfigurationDelegate@4ac86d6a - Naming appender as [STDOUT]
+11:30:22,031 |-INFO in ch.qos.logback.classic.gaffer.ConfigurationDelegate@4ac86d6a - Setting level of logger [ROOT] to ERROR
+11:30:22,036 |-INFO in ch.qos.logback.classic.gaffer.ConfigurationDelegate@4ac86d6a - Attaching appender named [STDOUT] to Logger[ROOT]
+************************************************************
+************************************************************
+************************************************************
+***            HappyBrackets Version 4.13.2.1            ***
+***                Beads Version 2.0.3.0                 ***
+************************************************************
+************************************************************
+************************************************************
+Detected SIMULATOR
+Setting config file to config/device-config.json
+Opened secondary controller discovery port on 2229
+************************************************************
+
+java version "13.0.2" 2020-01-14
+Java(TM) SE Runtime Environment (build 13.0.2+8)
+Java HotSpot(TM) 64-Bit Server VM (build 13.0.2+8, mixed mode, sharing)
+
+************************************************************
+Beads System Buffer size=1024
+.Local controllerOscServer Port 50038
+....Look for data/classes/Angelos-MacBook-Pro.local-startup.txt
+Device specific startup file not found
+Look for data/classes/startup.txt
+HB Status: ID -1
+Version sent 4.13.2 to port /192.168.15.22:65377 65377
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.22:65377 65377
+Version sent 4.13.2 to port /192.168.15.22:65377 65377
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.22:65377 65377
+Version sent 4.13.2 to port /192.168.15.22:65377 65377
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.22:65377 65377
+HB Status: ID -1
+Version sent 4.13.2 to port /192.168.15.22:65377 65377
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.22:65377 65377
+Beads Output buffer size=8192
+HB Status: ID -1
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Led true
+HB Status: Bleep 51586624302
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led true
+HB Status: Bleep 51586630997
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Led false
+Led true
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+HB Status: Lead Device Removed
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+HB Status: Lead Device Removed
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Version sent 4.13.2 to port /192.168.15.4:54971 54971
+/Users/angelofraietta/Documents/HappyBrackets/Distribution/HappyBrackets Developer Kit/HappyBrackets Project/Device/HappyBrackets
+Name sent 4.13.2 to port /192.168.15.4:54971 54971
+Shutdown Simulator
